@@ -1,4 +1,4 @@
-### Hi there, I'm Henocn! 👋
+### Hi there, I'm Henoc ! 👋
 
 - 👀 I’m interested in **algorithms**.
 - 🌱 I’m currently learning **programming**.
