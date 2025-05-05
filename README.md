@@ -1,8 +1,7 @@
-### Hi there, I'm Henoc ! 👋
+### Hello, I'm Henoc
 
-- 👀 I’m interested in **algorithms**.
-- 🌱 I’m currently learning **programming**.
-- 💞️ I’m looking to collaborate on **real Python or JavaScript projects**.
-- 🌍 I'm from Togo, Africa.
+I am passionate about algorithms and constantly expanding my skills in software development.
+Currently focused on learning and improving in **Python** and **JavaScript**, I'm particularly interested in contributing to real-world projects that solve meaningful problems.
 
-Feel free to connect with me if you share similar interests or if you'd like to collaborate on exciting projects! 😊
+I’m open to collaboration opportunities and always eager to connect with fellow developers and learners.
+Let’s build something impactful together.
